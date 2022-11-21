@@ -29,3 +29,28 @@ Investimento:
 - **Nota1, Nota2** : O quanto o investidor está satisfeito com nossa empresa (2 avaliações)
 
 Lembrando que esses dados são irreais e fictícios
+
+***
+<div align="center">
+        <h2> Tecnologias Utilizadas </h2><br>
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg">
+    <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+<img src="" />
+
+***
+
+<div style="display: inline_block" align="center"><br>
+<h4> 21 de novembro de 2022 </h4><br>
+</div>
+
+<div align="right">
+<h4>Autores</h4><br>
+
+[Guilherme Oliveira](https://github.com/guioliveiras)
+
+[Paulo Alves](https://github.com/guioliveiras)
+</div>
