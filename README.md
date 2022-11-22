@@ -1,12 +1,19 @@
-# Projeto Técnicas de programação I
+<div align="center"><h1>
 
-## Análise exploratória de Dados/Pandas
+Projeto Técnicas de programação I <br>
+Análise exploratória de Dados/Pandas
 
-Nesse projeto trabalharemos com dados fictícios de investidores.
+</h1></div>
 
-## Análise de Investidor
+Neste projeto, utilizamos dados fictícios de investidores para apriporar as habilidades de limpeza de dados, identificação de duplicatas e outras técnicas apresentadas e aprendidas no curso.
 
-## Informações
+***
+
+<div align="center">
+<h2>Análise de Investidor </h2>
+</div>
+
+***
 
 Cadastro:
 
@@ -28,7 +35,13 @@ Investimento:
 - **Ativo01, Ativo02, Ativo03, Ativo04, Ativo05, Ativo06, Ativo07** : O quanto de dinheiro o investidor colocou em cada ativo
 - **Nota1, Nota2** : O quanto o investidor está satisfeito com nossa empresa (2 avaliações)
 
-Lembrando que esses dados são irreais e fictícios
+***
+
+<div align="center">
+
+    Nesse projeto trabalhamos com dados fictícios de investidores.
+
+</div>
 
 ***
 <div align="center">
@@ -39,12 +52,10 @@ Lembrando que esses dados são irreais e fictícios
     <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-<img src="" />
-
 ***
 
 <div style="display: inline_block" align="center"><br>
-<h4> 21 de novembro de 2022 </h4><br>
+21 de novembro de 2022 <br>
 </div>
 
 <div align="right">
@@ -53,4 +64,5 @@ Lembrando que esses dados são irreais e fictícios
 [Guilherme Oliveira](https://github.com/guioliveiras)
 
 [Paulo Alves](https://github.com/guioliveiras)
+
 </div>
