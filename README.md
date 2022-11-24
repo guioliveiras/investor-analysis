@@ -50,8 +50,6 @@ Investimento:
     <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-***
-
 <div style="display: inline_block" align="center"><br>
 21 de novembro de 2022 <br>
 </div>
