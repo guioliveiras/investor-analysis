@@ -37,7 +37,7 @@ Investimento:
 
 <div align="center">
 
-    Nesse projeto trabalhamos com dados fictícios de investidores.
+    Esse projeto foi trabalhado com dados fictícios de investidores.
 
 </div>
 
@@ -55,8 +55,8 @@ Investimento:
 </div>
 
 <div align="right">
-<h4>Autores</h4><br>
-
+<h4>Autor</h4>
+    
 [Guilherme Oliveira](https://github.com/guioliveiras)
 
 </div>
