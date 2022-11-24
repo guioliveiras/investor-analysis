@@ -13,8 +13,6 @@ Neste projeto, utilizamos dados fictícios de investidores para apriporar as hab
 <h2>Análise de Investidor </h2>
 </div>
 
-***
-
 Cadastro:
 
 - **id** : Identificação do investidor
@@ -62,7 +60,5 @@ Investimento:
 <h4>Autores</h4><br>
 
 [Guilherme Oliveira](https://github.com/guioliveiras)
-
-[Paulo Alves](https://github.com/guioliveiras)
 
 </div>
