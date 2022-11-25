@@ -13,8 +13,6 @@ Neste projeto, utilizamos dados fictícios de investidores para apriporar as hab
 <h2>Análise de Investidor </h2>
 </div>
 
-***
-
 Cadastro:
 
 - **id** : Identificação do investidor
@@ -39,7 +37,7 @@ Investimento:
 
 <div align="center">
 
-    Nesse projeto trabalhamos com dados fictícios de investidores.
+    Esse projeto foi trabalhado com dados fictícios de investidores.
 
 </div>
 
@@ -52,17 +50,13 @@ Investimento:
     <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-***
-
 <div style="display: inline_block" align="center"><br>
 21 de novembro de 2022 <br>
 </div>
 
 <div align="right">
-<h4>Autores</h4><br>
-
+<h4>Autor</h4>
+    
 [Guilherme Oliveira](https://github.com/guioliveiras)
-
-[Paulo Alves](https://github.com/guioliveiras)
 
 </div>
